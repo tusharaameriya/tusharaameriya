@@ -32,18 +32,18 @@ Visit my portfolio for a detailed overview of my projects and skills: [![Portfol
 
 
 <p align="center">
- <img width="800" height="220" src="https://streak-stats.demolab.com?user=sar1taa&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+ <img width="800" height="220" src="https://streak-stats.demolab.com?user=Tushar&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 ---
 
 <p align="center">
- <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sar1taa&show_icons=true&theme=vision-friendly-dark">
- <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sar1taa&layout=compact&theme=vision-friendly-dark">
+ <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Tushar&show_icons=true&theme=vision-friendly-dark">
+ <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar&layout=compact&theme=vision-friendly-dark">
 </p>
 
 ---
 
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=sar1taa&style=for-the-badge&color=orange" alt="Profile Views Count"/>
+ <img src="https://komarev.com/ghpvc/?username=Tushar&style=for-the-badge&color=orange" alt="Profile Views Count"/>
 </div>
